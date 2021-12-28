@@ -71,3 +71,27 @@ git config user.name "facu"
 ```sh
 git config --get-regexp user
 ```
+
+#### vincular archivo al git
+```sh
+git add <archivo>
+```
+#### vincular todos los archivos al git
+```sh
+git add .
+```
+
+#### verificar si se vinculo
+```sh
+git status
+```
+#### realizar un commit
+```sh
+git commit -m "mensaje"
+```
+
+#### verificar si se realizo el commit
+```sh
+git log
+```
+
