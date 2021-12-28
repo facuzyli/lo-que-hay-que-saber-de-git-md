@@ -94,4 +94,16 @@ git commit -m "mensaje"
 ```sh
 git log
 ```
+##### ver log en forma resumida
+```sh
+git log --oneline
+```
+#### vincular con repocitorio git
+```sh
+git remote add origin https://github.com/facuzyli/git-repo-it.git
+```
 
+#### vincular con repocitorio git
+```sh
+git push -u origin main
+```
