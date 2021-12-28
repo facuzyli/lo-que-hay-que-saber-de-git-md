@@ -98,6 +98,14 @@ git log
 ```sh
 git log --oneline
 ```
+##### ver de que fecha, antes de que fecha, despues de que fecha y los ultimos commit segun la cantidad q pongas (-1,-2,-3,-n)
+```sh
+git log --since"2021-12-2020"
+git log --after"2021-12-2020"
+git log --before"2021-12-2020"
+git log -1
+```
+
 #### vincular con repocitorio git
 ```sh
 git remote add origin https://github.com/facuzyli/git-repo-it.git
