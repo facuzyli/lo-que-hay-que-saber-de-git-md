@@ -115,3 +115,19 @@ git remote add origin https://github.com/facuzyli/git-repo-it.git
 ```sh
 git push -u origin main
 ```
+#### paga guardar una vez vinculado
+```sh
+git push 
+```
+#### vincular con repocitorio git
+```sh
+git push -u origin main
+```
+#### eliminiar repocitorio
+```sh
+git remote rm origin
+```
+#### ver repositorios
+```sh
+git push remote -v
+```
