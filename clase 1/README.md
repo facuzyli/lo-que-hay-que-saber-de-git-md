@@ -131,6 +131,11 @@ git push -u origin main
 ```sh
 git remote rm origin
 ```
+#### cambiar nombre repocitorio
+```sh
+git remote rename <nombre-antiguo> <nombre-nuevo> 
+```
+
 #### ver repositorios
 ```sh
 git push remote -v
