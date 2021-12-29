@@ -90,6 +90,10 @@ git status
 git commit -m "mensaje"
 ```
 
+#### forma abreviada de add y commit
+```sh
+git commit -am "mensaje"
+```
 #### verificar si se realizo el commit
 ```sh
 git log
