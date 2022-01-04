@@ -37,4 +37,12 @@ git branch -d <nombre-rama>
 git branch -D <nombre-rama>
 ```
 
-algo de otra rama 
+### pasar data de una rama a la otra
+```sh
+git merge <nombre-rama>
+```
+
+### abortar marge
+```sh
+git merge --abort
+```
