@@ -85,6 +85,10 @@ git add .
 ```sh
 git status
 ```
+#### verificar si se vinculo en forma corta
+```sh
+git status --short
+```
 #### realizar un commit
 ```sh
 git commit -m "mensaje"
