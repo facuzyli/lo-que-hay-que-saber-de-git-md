@@ -37,4 +37,4 @@ git branch -d <nombre-rama>
 git branch -D <nombre-rama>
 ```
 
-algo de la rama 2
+algo de otra rama 
